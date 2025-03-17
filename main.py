@@ -4,7 +4,7 @@ import time
 import wmi
 import os
 import subprocess
-import pythoncom  # Importar pythoncom para inicializar o COM
+import pythoncom
 import psutil
 
 # Caminho do Open Hardware Monitor relativo ao diretório onde o script está rodando
